@@ -1,2 +1,2 @@
-web ansible_host=65.2.144.248 ansible_user=ubuntu 
+web ansible_host=65.2.144.248 ansible_user=ubuntu ansible_ssh_common_args='-o StrictHostKeyChecking=no'
 
