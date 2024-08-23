@@ -1,2 +1,2 @@
-web ansible_host=15.206.116.143 ansible_user=ubuntu ansible_ssh_private_key_file=/home/pritam/Downloads/pritam.pem
+web ansible_host=65.2.144.248 ansible_user=ubuntu ansible_ssh_private_key_file=/home/pritam/Downloads/pritam.pem
 
